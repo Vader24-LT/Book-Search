@@ -71,6 +71,13 @@ saveBook(bookData: BookInput!) – Add a book to user's collection
 removeBook(bookId: ID!) – Delete a book from saved list
 
 
+Link: https://book-search-6g1j.onrender.com/
+
+Video: 
+
+https://app.screencastify.com/v2/watch/RPwubIEJCH4DXtS9R496
+
+https://drive.google.com/file/d/1JzAZTuj1CpWpjxbYtPIJE4uerd4n6mTH/view?usp=sharing
 
 📜 License
 
