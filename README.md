@@ -33,7 +33,7 @@ Authentication	JSON Web Tokens (JWT)
 Clone the repository
 
 bash
-git clone https://github.com/VaderLT-24/booksearch-engine.git
+git clone https://github.com/Vader24-LT/Book-Search
 cd booksearch-engine
 Install dependencies
 
